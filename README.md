@@ -9,23 +9,24 @@ Data sets:
 Note, due to file size restrictions, original datasets for this project could not be included in the zip file on GitHub. Please add the following folder and subfolders to the main folder: 
 02 Data
 >Orginal Data
+
 >Prepared Data
 
 The followind datasets should be added directly into the 'Original Data' folder.
 
-customers dataset
+>customers dataset
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 
-departments dataset
+>departments dataset
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zipTools
 
-orders_products_prior dataset
+>orders_products_prior dataset
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products__prior.zip
 
-orders and products csv files
+>orders and products csv files
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
 
 Tools used:
-Python
+>Python
 
 
