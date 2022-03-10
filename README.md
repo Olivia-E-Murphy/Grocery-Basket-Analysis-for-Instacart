@@ -19,11 +19,7 @@ Key questions include:
 >What differences can you find in ordering habits of different customer profiles?
 
 Data sets:
-Note, due to file size restrictions, original datasets for this project could not be included in the zip file on GitHub. Please add the following folder and subfolders to the main folder: 
-02 Data
->Orginal Data
-
->Prepared Data
+Note, due to file size restrictions, original datasets for this project could not be uploaded to GitHub.
 
 The followind datasets should be added directly into the 'Original Data' folder.
 
