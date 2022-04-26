@@ -1,4 +1,4 @@
-# InstacartGroceryBasketAnalysis
+# Grocery-Basket-Analysis-for-Instacart
 Background:
 Instacart, an online grocery company, is seeking to discover more about its sales patterns with the end goal of developing a targeted marketing strategy. To achieve these goals, the company requires a data analyst to get them started by deriving insights and suggesting marketing strategies based on initial data and exploratory analysis. 
 
