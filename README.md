@@ -1,7 +1,15 @@
 # InstacartGroceryBasketAnalysis
-Achievement 4 of CareerFoundry's curriculum, which calls to use Python to solve business questions for Instacart, using a fabricated dataset.
+Background:
+Instacart, an online grocery company, is seeking to discover more about its sales patterns with the end goal of developing a targeted marketing strategy. To achieve these goals, the company requires a data analyst to get them started by deriving insights and suggesting marketing strategies based on initial data and exploratory analysis. 
 
-In the "Instacart Grocery Basket Analysis" Project, CareerFoundry calls for students to put themselves in the shoes of an analyst to derive insights in order to make a data-driven marketing strategy to target customers.
+Context:
+This project was completed as part of the CareerFoundry's curriculum.
+
+Topics covered were Python, data wrangling, data merging, deriving variables. grouping data, aggregating data, reporting in Excel, and population flows.
+
+This knowledge was used to provide guidance on a marketing strategy for Instacart. 
+
+Note, while Instacart is a real company, the data set was fabricated for the purpose of this project.
 
 Key questions include: 
 >What are the busiest days of the week & hours of the day?
